@@ -1,0 +1,10 @@
+main {
+    max-width: 9%;
+}
+main {
+    text-align: center;
+    max-width: 90%;
+}
+img {
+    max-width: 90%;
+}
